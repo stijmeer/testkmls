@@ -16,7 +16,7 @@
 </Schema>
 <Folder><name>Brussel</name>
   <Placemark>
-	<Style><LineStyle><color>FF0000FF</color><width>1</width><gx:outerWidth>0.0</gx:outerWidth></LineStyle><PolyStyle><fill>1</fill><color>3366DDFF</color><outline>1</outline></PolyStyle></Style>
+	<Style><LineStyle><color>FF0000FF</color><width>1</width><outerWidth>0.0</outerWidth></LineStyle><PolyStyle><fill>1</fill><color>3366DDFF</color><outline>1</outline></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Brussel">
 		<SimpleData name="ID_0">22</SimpleData>
 		<SimpleData name="ISO">BEL</SimpleData>
